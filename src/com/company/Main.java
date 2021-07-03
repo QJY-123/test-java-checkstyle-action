@@ -13,7 +13,7 @@ public final class Main {
   /**
    * 主函数.
    *
-   * @param args 不知道是啥.
+   * @param args    不知道是啥.
    */
   public static void main(final String[] args) {
     // write your code here
