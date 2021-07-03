@@ -3,5 +3,5 @@ package com.company;
 /**
  * A类.
  */
-public class AClass {
+public class Aclass {
 }

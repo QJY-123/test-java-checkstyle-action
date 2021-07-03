@@ -4,11 +4,12 @@ package com.company;
  * 主类.
  */
 public final class Main {
-    /**
-     * 构造函数.
-     */
-    private Main() {
-    }
+  /**
+   * 构造函数.
+   */
+  private Main() {
+  }
+
   /**
    * 主函数.
    *
