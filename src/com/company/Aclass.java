@@ -5,7 +5,7 @@ package com.company;
  */
 public class Aclass {
   //设置错误格式检查能否通过action
-      public void methon() {
+      public void methon(){
 
   }
 }
