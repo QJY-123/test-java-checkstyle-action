@@ -3,11 +3,11 @@ package com.company;
 /**
  * 主类.
  */
-public final class Main {
-  /**
+    public final class Main {
+     /**
    * 构造函数.
    */
-  private Main() {
+       private Main() {
   }
 
 
